@@ -57,7 +57,7 @@
 
 <br>
 
-#### 🔴 **Final Project : Dragon War**
+#### 🔴 **Final Project : Dragon War** 🐉🏰
 - 자유롭게 애니메이션 제작하기
 - **Resource Reference**
   - [Mixamo](https://www.mixamo.com/)
