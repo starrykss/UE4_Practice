@@ -7,3 +7,64 @@
 
 ### 제작 프로그램
 
+#### 🔴 **HW #1. 유사 장면 연출하기** 
+
+*[바로가기](https://github.com/starrykss/UE4_Practice/blob/main/Etc/CA_HW1.pdf)*
+
+<br>
+
+#### 🔴 **HW #2. 액터 클래스 사용해보기**
+
+[![Video Label](http://img.youtube.com/vi/a8hsHM309yE/0.jpg)](https://youtu.be/a8hsHM309yE)
+
+<br>
+
+#### 🔴 **HW #3. 변환(Transform)에 대한 선형 보간(Linear Interpolation)**
+
+[![Video Label](http://img.youtube.com/vi/ouTyI98hXQk/0.jpg)](https://youtu.be/ouTyI98hXQk)
+
+<br>
+
+#### 🔴 **Mid-Term Project : 곡예 비행 애니메이션 만들기**
+
+- 구현한 곡예 비행 기술
+  - Aileron Roll
+  - Barrel Roll
+  - Cuban Eight
+
+> **Catmull-Rom Spline을 이용하여 구현**
+
+[![Video Label](http://img.youtube.com/vi/8jxLICzuhpo/0.jpg)](https://youtu.be/8jxLICzuhpo)
+
+<br>
+
+> **Linear Interpolation을 이용하여 구현 & Catmull-Rom Spline으로 구현한 결과와 비교**
+
+[![Video Label](http://img.youtube.com/vi/-2y09l2EE9c/0.jpg)](https://youtu.be/-2y09l2EE9c)
+
+<br>
+
+#### 🔴 **HW #4. 시퀀서(Sequencer)와 블루프린트(Blueprint)를 이용하여 바람에 날리는 효과 재현하기**
+
+[![Video Label](http://img.youtube.com/vi/YngYtGZomQ0/0.jpg)](https://youtu.be/YngYtGZomQ0)
+
+<br>
+
+#### 🔴 **HW #5. Data-Driven 애니메이션 제작하기**
+- **Resource Reference** : [Mixamo](https://www.mixamo.com/)
+
+[![Video Label](http://img.youtube.com/vi/r9j3Rk6rv88/0.jpg)](https://youtu.be/r9j3Rk6rv88)
+
+<br>
+
+#### 🔴 **Final Project : Dragon War**
+- 자유롭게 애니메이션 제작하기
+- **Resource Reference**
+  - [Mixamo](https://www.mixamo.com/)
+  - Unreal Engine Marketplace - Free Models
+    - *Four Evil Dragons HP/PBR*
+    - *Sylized Provencal*
+
+[![Video Label](http://img.youtube.com/vi/N-OGYjJviRI/0.jpg)](https://youtu.be/N-OGYjJviRI)
+
+<br>
