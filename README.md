@@ -57,7 +57,7 @@
 #### 🔴 **HW #5. Data-Driven 애니메이션 제작하기**
 - **Resource Reference** : [Mixamo](https://www.mixamo.com/)
 
-[![Video Label](http://img.youtube.com/vi/r9j3Rk6rv88/0.jpg)](https://youtu.be/r9j3Rk6rv88)
+[![Video Label](http://img.youtube.com/vi/r9j3Rk6rv88/0.jpg)](https://youtu.be/LtinKLxSdXw)
 
 <br>
 
