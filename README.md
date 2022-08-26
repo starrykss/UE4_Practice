@@ -50,7 +50,7 @@
 
 #### 🔴 **HW #4. 시퀀서(Sequencer)와 블루프린트(Blueprint)를 이용하여 바람에 날리는 효과 재현하기**
 
-[![Video Label](http://img.youtube.com/vi/YngYtGZomQ0/0.jpg)](https://youtu.be/YngYtGZomQ0)
+[![Video Label](http://img.youtube.com/vi/IIwBbIF-8go/0.jpg)](https://youtu.be/IIwBbIF-8go)
 
 <br>
 
