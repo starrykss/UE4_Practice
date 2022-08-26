@@ -18,7 +18,7 @@
 
 #### 🔴 **HW #2. 액터 클래스 사용해보기**
 
-[![Video Label](http://img.youtube.com/vi/a8hsHM309yE/0.jpg)](https://youtu.be/a8hsHM309yE)
+[![Video Label](http://img.youtube.com/vi/sIEf0BruoNc/0.jpg)](https://youtu.be/sIEf0BruoNc)
 
 <br>
 
