@@ -38,7 +38,7 @@
 
 > **Catmull-Rom Spline을 이용하여 구현**
 
-[![Video Label](http://img.youtube.com/vi/8jxLICzuhpo/0.jpg)](https://youtu.be/8jxLICzuhpo)
+[![Video Label](http://img.youtube.com/vi/zBaV2RDxW6w/0.jpg)](https://youtu.be/zBaV2RDxW6w)
 
 <br>
 
