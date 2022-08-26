@@ -69,6 +69,6 @@
     - *Four Evil Dragons HP/PBR*
     - *Sylized Provencal*
 
-[![Video Label](http://img.youtube.com/vi/N-OGYjJviRI/0.jpg)](https://youtu.be/N-OGYjJviRI)
+[![Video Label](http://img.youtube.com/vi/LtinKLxSdXw/0.jpg)](https://youtu.be/LtinKLxSdXw)
 
 <br>
