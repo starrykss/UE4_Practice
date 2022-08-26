@@ -24,7 +24,7 @@
 
 #### 🔴 **HW #3. 변환(Transform)에 대한 선형 보간(Linear Interpolation)**
 
-[![Video Label](http://img.youtube.com/vi/ouTyI98hXQk/0.jpg)](https://youtu.be/ouTyI98hXQk)
+[![Video Label](http://img.youtube.com/vi/BGOypW7lKPE/0.jpg)](https://youtu.be/BGOypW7lKPE)
 
 <br>
 
